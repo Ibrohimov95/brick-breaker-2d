@@ -20,4 +20,4 @@ Raketka yordamida to‘pni boshqarib, barcha g‘ishtlarni yo‘q qilish.
 (O‘zingiz screenshot qo‘shishingiz mumkin)
 
 ## 👨‍💻 Muallif
-Ismingizni yozing
+Yusuf
